@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "BaseJWT.Domain/1.0.0": {
+        "dependencies": {
+          "BaseJWT.Util": "1.0.0"
+        },
+        "runtime": {
+          "BaseJWT.Domain.dll": {}
+        }
+      },
+      "BaseJWT.Util/1.0.0": {
+        "runtime": {
+          "BaseJWT.Util.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaseJWT.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BaseJWT.Util/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\My-Shop-BackEnd-master\BaseJWT.Service\obj\Debug\netcoreapp2.1\BaseJWT.Service.csprojAssemblyReference.cache
+C:\Users\User\source\repos\My-Shop-BackEnd-master\BaseJWT.Service\obj\Debug\netcoreapp2.1\BaseJWT.Service.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\My-Shop-BackEnd-master\BaseJWT.Service\obj\Debug\netcoreapp2.1\BaseJWT.Service.AssemblyInfo.cs
+C:\Users\User\source\repos\My-Shop-BackEnd-master\BaseJWT.Service\obj\Debug\netcoreapp2.1\BaseJWT.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\My-Shop-BackEnd-master\BaseJWT.Service\bin\Debug\netcoreapp2.1\BaseJWT.Service.deps.json
+C:\Users\User\source\repos\My-Shop-BackEnd-master\BaseJWT.Service\bin\Debug\netcoreapp2.1\BaseJWT.Service.dll
+C:\Users\User\source\repos\My-Shop-BackEnd-master\BaseJWT.Service\bin\Debug\netcoreapp2.1\BaseJWT.Service.pdb
+C:\Users\User\source\repos\My-Shop-BackEnd-master\BaseJWT.Service\bin\Debug\netcoreapp2.1\BaseJWT.Domain.dll
+C:\Users\User\source\repos\My-Shop-BackEnd-master\BaseJWT.Service\bin\Debug\netcoreapp2.1\BaseJWT.Infrastructure.dll
+C:\Users\User\source\repos\My-Shop-BackEnd-master\BaseJWT.Service\bin\Debug\netcoreapp2.1\BaseJWT.Util.dll
+C:\Users\User\source\repos\My-Shop-BackEnd-master\BaseJWT.Service\bin\Debug\netcoreapp2.1\BaseJWT.Domain.pdb
+C:\Users\User\source\repos\My-Shop-BackEnd-master\BaseJWT.Service\bin\Debug\netcoreapp2.1\BaseJWT.Infrastructure.pdb
+C:\Users\User\source\repos\My-Shop-BackEnd-master\BaseJWT.Service\bin\Debug\netcoreapp2.1\BaseJWT.Util.pdb
+C:\Users\User\source\repos\My-Shop-BackEnd-master\BaseJWT.Service\obj\Debug\netcoreapp2.1\BaseJWT.Service.csproj.CopyComplete
+C:\Users\User\source\repos\My-Shop-BackEnd-master\BaseJWT.Service\obj\Debug\netcoreapp2.1\BaseJWT.Service.dll
+C:\Users\User\source\repos\My-Shop-BackEnd-master\BaseJWT.Service\obj\Debug\netcoreapp2.1\BaseJWT.Service.pdb
