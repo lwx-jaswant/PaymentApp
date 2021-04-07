@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Property\\PaymentApp\\PaymentApp.Service\\PaymentApp.Service.csproj": {}
+    "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Service\\PaymentApp.Service.csproj": {}
   },
   "projects": {
-    "D:\\Property\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj": {
+    "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Property\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj",
+        "projectUniqueName": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj",
         "projectName": "PaymentApp.Domain",
-        "projectPath": "D:\\Property\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj",
+        "projectPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj",
         "packagesPath": "C:\\Users\\jassi\\.nuget\\packages\\",
-        "outputPath": "D:\\Property\\PaymentApp\\PaymentApp.Domain\\obj\\",
+        "outputPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "D:\\Property\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj": {
-                "projectPath": "D:\\Property\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj"
+              "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj": {
+                "projectPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "D:\\Property\\PaymentApp\\PaymentApp.Infrastructure\\PaymentApp.Infrastructure.csproj": {
+    "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Infrastructure\\PaymentApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Property\\PaymentApp\\PaymentApp.Infrastructure\\PaymentApp.Infrastructure.csproj",
+        "projectUniqueName": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Infrastructure\\PaymentApp.Infrastructure.csproj",
         "projectName": "PaymentApp.Infrastructure",
-        "projectPath": "D:\\Property\\PaymentApp\\PaymentApp.Infrastructure\\PaymentApp.Infrastructure.csproj",
+        "projectPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Infrastructure\\PaymentApp.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\jassi\\.nuget\\packages\\",
-        "outputPath": "D:\\Property\\PaymentApp\\PaymentApp.Infrastructure\\obj\\",
+        "outputPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -99,11 +99,11 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "D:\\Property\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj": {
-                "projectPath": "D:\\Property\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj"
+              "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj": {
+                "projectPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj"
               },
-              "D:\\Property\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj": {
-                "projectPath": "D:\\Property\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj"
+              "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj": {
+                "projectPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "D:\\Property\\PaymentApp\\PaymentApp.Service\\PaymentApp.Service.csproj": {
+    "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Service\\PaymentApp.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Property\\PaymentApp\\PaymentApp.Service\\PaymentApp.Service.csproj",
+        "projectUniqueName": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Service\\PaymentApp.Service.csproj",
         "projectName": "PaymentApp.Service",
-        "projectPath": "D:\\Property\\PaymentApp\\PaymentApp.Service\\PaymentApp.Service.csproj",
+        "projectPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Service\\PaymentApp.Service.csproj",
         "packagesPath": "C:\\Users\\jassi\\.nuget\\packages\\",
-        "outputPath": "D:\\Property\\PaymentApp\\PaymentApp.Service\\obj\\",
+        "outputPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -170,14 +170,14 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "D:\\Property\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj": {
-                "projectPath": "D:\\Property\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj"
+              "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj": {
+                "projectPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj"
               },
-              "D:\\Property\\PaymentApp\\PaymentApp.Infrastructure\\PaymentApp.Infrastructure.csproj": {
-                "projectPath": "D:\\Property\\PaymentApp\\PaymentApp.Infrastructure\\PaymentApp.Infrastructure.csproj"
+              "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Infrastructure\\PaymentApp.Infrastructure.csproj": {
+                "projectPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Infrastructure\\PaymentApp.Infrastructure.csproj"
               },
-              "D:\\Property\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj": {
-                "projectPath": "D:\\Property\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj"
+              "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj": {
+                "projectPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj"
               }
             }
           }
@@ -221,14 +221,14 @@
         }
       }
     },
-    "D:\\Property\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj": {
+    "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Property\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj",
+        "projectUniqueName": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj",
         "projectName": "PaymentApp.Util",
-        "projectPath": "D:\\Property\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj",
+        "projectPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj",
         "packagesPath": "C:\\Users\\jassi\\.nuget\\packages\\",
-        "outputPath": "D:\\Property\\PaymentApp\\PaymentApp.Util\\obj\\",
+        "outputPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Util\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1089,11 +1089,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Property\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj",
+      "projectUniqueName": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj",
       "projectName": "PaymentApp.Util",
-      "projectPath": "D:\\Property\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj",
+      "projectPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj",
       "packagesPath": "C:\\Users\\jassi\\.nuget\\packages\\",
-      "outputPath": "D:\\Property\\PaymentApp\\PaymentApp.Util\\obj\\",
+      "outputPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Util\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -12206,11 +12206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Property\\PaymentApp\\PaymentApp.Service\\PaymentApp.Service.csproj",
+      "projectUniqueName": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Service\\PaymentApp.Service.csproj",
       "projectName": "PaymentApp.Service",
-      "projectPath": "D:\\Property\\PaymentApp\\PaymentApp.Service\\PaymentApp.Service.csproj",
+      "projectPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Service\\PaymentApp.Service.csproj",
       "packagesPath": "C:\\Users\\jassi\\.nuget\\packages\\",
-      "outputPath": "D:\\Property\\PaymentApp\\PaymentApp.Service\\obj\\",
+      "outputPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12230,14 +12230,14 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "D:\\Property\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj": {
-              "projectPath": "D:\\Property\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj"
+            "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj": {
+              "projectPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Domain\\PaymentApp.Domain.csproj"
             },
-            "D:\\Property\\PaymentApp\\PaymentApp.Infrastructure\\PaymentApp.Infrastructure.csproj": {
-              "projectPath": "D:\\Property\\PaymentApp\\PaymentApp.Infrastructure\\PaymentApp.Infrastructure.csproj"
+            "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Infrastructure\\PaymentApp.Infrastructure.csproj": {
+              "projectPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Infrastructure\\PaymentApp.Infrastructure.csproj"
             },
-            "D:\\Property\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj": {
-              "projectPath": "D:\\Property\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj"
+            "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj": {
+              "projectPath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Util\\PaymentApp.Util.csproj"
             }
           }
         }

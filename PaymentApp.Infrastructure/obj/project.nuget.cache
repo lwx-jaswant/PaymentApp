@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6ejvZ/feFFqpdEjAzPG5cj4uBm4tkz8CqrOJm/EvOxOAIs9gdaNGb0KWcEv8qDNQPHXt/9Iy4ei63TO3DD5ubQ==",
+  "dgSpecHash": "0eF6SFCpQtS36/l0RgDz3lIitdqRx9ZWqmmHvhgOMsNi85ieMKsN7COn0LpdQdR0Wd5VhRSVaJm8SKXCYJRSWA==",
   "success": true,
-  "projectFilePath": "D:\\Property\\PaymentApp\\PaymentApp.Infrastructure\\PaymentApp.Infrastructure.csproj",
+  "projectFilePath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp.Infrastructure\\PaymentApp.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\jassi\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

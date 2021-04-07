@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aILysk+0GuzXtCII1YoObpucZUGESMxasam1mgEfCB/YLWxvl2gshNPSTxI+srYsezAvsYgougCLuvgueepfYQ==",
+  "dgSpecHash": "zSt97eC6Jz9/hOh0zTBeUiGoJmvW1UoX9MlNv6A3rduMilIILWtoNnnkLcHYl/TdrgkHUmEhaSjsEK1dfgkqeA==",
   "success": true,
-  "projectFilePath": "D:\\Property\\PaymentApp\\PaymentApp\\PaymentApp.csproj",
+  "projectFilePath": "D:\\SingviInvoice\\PaymentApp\\PaymentApp\\PaymentApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jassi\\.nuget\\packages\\automapper\\6.1.1\\automapper.6.1.1.nupkg.sha512",
     "C:\\Users\\jassi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\3.0.1\\automapper.extensions.microsoft.dependencyinjection.3.0.1.nupkg.sha512",
